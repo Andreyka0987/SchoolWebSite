@@ -1,0 +1,21 @@
+body{
+    background-image: url("img/space.jpg");
+    color: white;
+}
+
+
+a{
+    color: aquamarine;
+}
+a:hover{
+    color: aqua;
+}
+
+h2{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 1rem;
+    border-radius: 10px;
+
+
+}
